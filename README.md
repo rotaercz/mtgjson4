@@ -24,6 +24,9 @@ If you would like to join or assist the development of the project, you can [joi
 
 This system was built using *Python 3.7*, so we can only guarantee proper functionality with this version.
 
+0. Install Python. During installation, be sure to check the checkbox to add Python to PATH.
+
+	https://www.python.org/downloads/
 
 1. First, you'll need to install the MTGJSON4 package and dependencies. You can do this via:
 
